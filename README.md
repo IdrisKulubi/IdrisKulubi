@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming,machine learning and Artificial Intelligence.
 - 🌱 I’m currently learning  Fullstack development from University of Helsinki and Diploma in Information Technology at Strathmore University.
 
-- ⚡ Fun fact:  
+-
 
 <!---
 169398/169398 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Software Engineer
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 🧠  I'm learning Project Management
-* ⚡  I also love working at night😅
+* ⚡ Fun fact: Who doesn't  love working at night😅
 * 👀 I’m interested in programming,machine learning and Artificial Intelligence.
 
 * 💞️ I’m looking to collaborate on  Web Development  and Design 
