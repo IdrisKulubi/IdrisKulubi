@@ -7,11 +7,11 @@ Software Engineer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
-* 🧠  I'm learning Project Management
+* 🧠  I'm learning AWS and Microsoft Azure
 * ⚡ Fun fact: Who doesn't  love working at night😅
 * 👀 I’m interested in programming,machine learning and Artificial Intelligence.
 
-* 💞️ I’m looking to collaborate on  Web Development  and Design 
+* 💞️ I’m looking to collaborate on  Software  Development  and Design 
 
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/169398?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
