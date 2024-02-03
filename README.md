@@ -7,6 +7,7 @@ Software Engineer
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
+* 🚀 You can see my works at <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
 * 🧠  I'm learning AWS and Microsoft Azure
 * ⚡ Fun fact: Who doesn't  love working at night😅
 * 👀 I’m interested in programming,machine learning and Artificial Intelligence.
