@@ -9,7 +9,7 @@ Software Engineer
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 🚀 You can see my works at <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
 * 🧠  I'm learning AWS and Microsoft Azure
-* ⚡ Fun fact: Who doesn't  love working at night😅
+* ⚡ Fun fact: Who doesn't  love coding at night😅
 * 👀 I’m interested in programming,machine learning and Artificial Intelligence.
 
 * 💞️ I’m looking to collaborate on  Software  Development  and Design 
