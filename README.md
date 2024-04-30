@@ -12,7 +12,7 @@ Software Developer
 * ⚡ Fun fact: Who doesn't  love coding at night😅
 * 👀 I’m interested in programming,machine learning and Artificial Intelligence.
 
-* 💞️ I’m looking to collaborate on  Software  Development  and Design ,Data Structures and algorithms .
+* 💞 I’m looking to collaborate on  Software  Development  and Design ,Data Structures and algorithms .
 
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/169398?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
