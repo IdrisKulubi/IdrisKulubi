@@ -1,18 +1,18 @@
 
-Hi 👋 My name is Idris kulubi
-=============================
+Hi 👋 My name is 👀 "❗ you know me enough to find my github"
+============================================================
 
 Software Developer
 -----------------
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
-* 🚀 You can see my works at <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
-* 🧠  I'm developing my  software product 😜.
-* ⚡ Fun fact: Who doesn't  love coding at night😅
-* 👀 I’m interested in programming,machine learning and Artificial Intelligence.
+* 🚀 My portfolio <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
+* 🧠  Solving society problems using code but not lack of money.
+* ⚡ Fun fact: Not here  , I don't do comedy💀
+* 👀 Fixing bugs .
 
-* 💞 I’m looking to collaborate on  Software  Development  and Design ,Data Structures and algorithms .
+* 💞 If you love Vim you pass all the tests to be my friend ,collaborations are for Artists but we can try .
 
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/169398?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -50,4 +50,4 @@ src="https://img.shields.io/github/followers/169398?logo=github&style=for-the-ba
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/169398/my-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=169398&repo=my-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/169398/strathmallv2.1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=169398&repo=my-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
