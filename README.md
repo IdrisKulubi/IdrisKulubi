@@ -8,7 +8,6 @@ Software Developer
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 🚀 My portfolio <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
-* 🧠  Solving society problems using code but not lack of money.
 * ⚡ Fun fact: Not here  , I don't do comedy💀
 * 👀 Fixing bugs .
 
