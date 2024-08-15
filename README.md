@@ -1,5 +1,5 @@
 
-Hi 👋 My name is 👀 "❗ you know me enough to find my github"
+Hi 👋 My name is idris
 ============================================================
 
 Software Developer
