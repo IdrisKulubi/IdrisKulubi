@@ -8,7 +8,6 @@ Software Developer
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 🚀 My portfolio <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
-* ⚡ Fun fact: Not here  , I don't do comedy💀
 * 👀 Fixing bugs .
 
 * 💞 If you love Vim you pass all the tests to be my friend ,collaborations are for Artists but we can try .
