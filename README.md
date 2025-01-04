@@ -10,7 +10,6 @@ Software Developer
 * 🚀 My portfolio <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
 * 👀 Fixing bugs .
 
-* 💞 If you love Vim you pass all the tests to be my friend ,collaborations are for Artists but we can try .
 
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/169398?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
