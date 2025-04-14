@@ -2,7 +2,7 @@
 Hi 👋 My name is idris
 ============================================================
 
-I tell computers what to do and they sometimes listen 👻
+I tell computers what to do and they sometimes listen 👻.
 -----------------
 
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
