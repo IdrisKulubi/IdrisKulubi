@@ -1,12 +1,8 @@
 
-Hi 👋 My name is idris
+I am Idris a 21 year old developer  who loves solving  problems and creating solutions using code 
 ============================================================
 
-I tell computers what to do and they sometimes listen 👻.
------------------
-
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
-* 🚀 My portfolio <a  href= "https://idris-kulubi-portfolio.vercel.app/"  target="_blank" rel="noreferrer"> My portfolio</a>
 * 👀 Fixing bugs .
 
 
