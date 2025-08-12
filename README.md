@@ -3,7 +3,6 @@ I am Idris a 21 year old developer  who loves solving  problems and creating sol
 ============================================================
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 👀 Fixing bugs .
-https://play.google.com/apps/test/RQ7gLE-95PE/ahAO29uNQhPNzltNC10fgv0VP6LW_ooaRPnb364f9zso6LCYL8_UDWsYQNbp-KVFkb-4VJRNPQBXpxXPJ_RDntB8Bi
 
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IdrisKulubi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
