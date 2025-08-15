@@ -1,9 +1,8 @@
 
-I am Idris a 21 year old developer  who loves solving  problems and creating solutions using code 
+I am Idris a 20 year old developer  who loves solving  problems and creating solutions using code 
 ============================================================
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 👀 Fixing bugs .
-  https://play.google.com/apps/test/RQ7gLE-95PE/ahAO29uNR-B_S9y8W5E5qjxEW519TFS_3bsiXlWsDdtyHhK6Tcd6T_koFU4EsAUcNDEPqgMKL4Velklezp9NcZBI4w
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IdrisKulubi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IdrisKulubi&label=Profile%20views&color=0e75b6&style=flat" alt="idris kulubi" /> </p>
