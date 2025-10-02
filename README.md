@@ -1,6 +1,6 @@
 
 I am Idris a 20 years old developer and athlete   who loves solving  problems and creating solutions using code ,
-Just did my 1st Half marathon 😎
+Just did my 1st Half marathon ,😎
 ============================================================
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 👀 Fixing bugs .
