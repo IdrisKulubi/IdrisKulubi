@@ -2,6 +2,7 @@
 I am Idris a 21 years old developer and athlete   who loves solving  problems and creating solutions using code ,
 
 ============================================================
+
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
 * 👀 Fixing bugs .
 <a href="https://www.github.com/169398" target="_blank" rel="noreferrer"><img
