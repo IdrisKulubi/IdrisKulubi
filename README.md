@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/IdrisKulubi?logo=github&style=for-t
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IdrisKulubi&label=Profile%20views&color=0e75b6&style=flat" alt="idris kulubi" /> </p>
 
 
-### Skills
+### Skills.
 
 
 <p align="left">
