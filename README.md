@@ -1,6 +1,6 @@
 
 
-I am Idris a 22 years old developer and athlete   who loves solving  problems and creating solutions using code 
+I love coding and talking about it 🥴
  ,
 ============================================================
 * ✉️  My Email [kulubiidris@gmail.com](mailto:kulubiidris@gmail.com)
